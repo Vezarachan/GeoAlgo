@@ -1,14 +1,15 @@
 # GeoAlgo
 空间信息（GIS/RS）相关算法汇总
 
-- [ ]  空间分析部分
-- [ ]  数据压缩部分
-- [ ]  数据内插部分
-- [ ]  空间统计部分
+- [ ]  空间度量
+- [ ]  空间数据转换
+- [ ]  空间数据内插
+- [ ]  空间数据挖掘
 
 
 ---
 
+## 法律相关
 This software is distributed under the MIT license
 
 In particular, please be aware that
